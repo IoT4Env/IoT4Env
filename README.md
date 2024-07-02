@@ -3,7 +3,7 @@ Hi 👋 My name is Matteo
 IoT developer
 -------------
 
-I'm learning IoT (Internet of Things) fundamentals alongside with many programming languages, Networking concepts, Edge computing, IoT protocols such as MQTT, AMQT, CoAP and many more, with the primary focus on utilizing those skills to solve real world Environmental problems.
+I'm learning IoT (Internet of Things) fundamentals alongside with many programming languages, Networking concepts, Edge computing, IoT protocols such as MQTT, AMQT, OPC UA and many more, with the primary focus on utilizing those skills to solve real world Environmental problems.
 * 🌍 I'm based in Italy
 * 🚀 I'm currently working on [WorkAutomation](https://github.com/IoT4Env/WorkAutomation), [CustomCLI](https://github.com/IoT4Env/CustomCLI)
 * 🧠 I'm learning IoT applied for the industry with the final goal to gain as much information as possible about the IoT world.
