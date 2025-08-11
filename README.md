@@ -28,10 +28,3 @@ There i took the opportunity to learn advanced concepts of IT like Networking, E
 
 <div width="100%" align="center"><a href="https://github.com/IoT4Env/WorkAutomation" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IoT4Env&repo=WorkAutomation&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/IoT4Env/CustomCLI" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IoT4Env&repo=CustomCLI&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-### Additional Info
-
-Some of my repository contains a commit history built with another personal GitHub account that is now deleted.\
-The mojority of work resides on those commits, so why i had to delete that account you might ask?\
-Well, i needed to change the Google email address binded to the deleted GitHub account and to do so i was required to create a new account.\
-After that, i transfered all the repositories from the old account to the new account and proceded with the deletion of the old account (GitHub and Google).\
-If someone needs to do the same thing, i suggest taking this procedure as the last option, because after all that work around i discovered that it's possible to add multiple Google emails to the same GitHub account, which have the potential to solve the main problem.
