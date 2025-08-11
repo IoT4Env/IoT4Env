@@ -7,7 +7,7 @@ I'm learning IoT (Internet of Things) fundamentals alongside with many programmi
 * 🌍 I'm based in Italy
 * 🚀 I'm currently working on [WorkAutomation](https://github.com/IoT4Env/WorkAutomation), [CustomCLI](https://github.com/IoT4Env/CustomCLI)
 * 🧠 I'm learning IoT applied for the industry with the final goal to gain as much information as possible about the IoT world.
-* 🤝 I'm open to collaborating on IoT projects that involve comunication between edge devices and machine data collection.
+* 🤝 I'm open on collaborating on IoT projects that involve edge devices comunication and machine data collection to get informations about pollutants created by machines and limiting their emissions on the main Environmental matrices (Air, Soil, Water).
 * ⚡ Fun fact: The profile photo is a hand made picture created by me that represents my personality and passions.
 
 ### Skills
